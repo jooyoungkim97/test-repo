@@ -1,4 +1,4 @@
-this is my test file~
+this is my test file!
 학번 : 201801067
 이름 : 김주영
 학과 : 컴퓨터.전자시스템공학부
